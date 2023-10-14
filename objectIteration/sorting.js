@@ -15,11 +15,11 @@ const arr = [
 
     }
 ]
-const sortingArr=()=>{
-    const sort=arr.sort((item,itemb)=>{
-        return item.price-itemb.price
+// const sortingArr=()=>{
+//     const sort=arr.sort((item,itemb)=>{
+//         return item.price-itemb.price
 
-    })
-}
+//     })
+// }
 
-sortingArr()
+// sortingArr()
